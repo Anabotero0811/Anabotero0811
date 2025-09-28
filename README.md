@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👩‍🔬 About Me  
+I am a Biological Engineering student with a strong interest in microbiology, biotechnology, and bioinformatics.  
 
-<!--
-**Anabotero0811/Anabotero0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔬 Skills & Experience  
+- Isolation, cultivation, and purification of bacteria and yeasts.  
+- Development of growth kinetics, calibration curves, drying methods, media formulation, and micro/macroscopic characterization.  
+- Laboratory equipment handling: autoclave, micropipettes, laminar flow hood, shaker, microscope, incubator, and spectrophotometer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Research Background  
+I have strengthened my training as a member of the research group *Active Substances and Biotechnology – SABio* (MinCiencias Code: COL0139139).  
+
+---
+
+## 💡 Interests  
+I am passionate about exploring the intersection between experimental biology and computational analysis.  
+Currently, I am focused on learning and applying bioinformatics tools to complement microbiological and biotechnological research.  
+
+---
+
+## 🤝 Values  
+Leadership • Responsibility • Effective Communication • Commitment to scientific excellence and continuous learning.
